@@ -1,4 +1,6 @@
 VPN:
+Follow below article for step by step guide
+https://www.fosstechnix.com/how-to-create-vpc-in-aws-using-terraform/
 
 Please find below same AWS VPC Terraform code
 provider "aws" {
